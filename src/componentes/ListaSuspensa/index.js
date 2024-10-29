@@ -1,4 +1,4 @@
-import './lista-suspensa.css'
+import './styles.css'
 
 const ListaSuspensa = ({label, items,  valor, aoAlterado, obrigatorio = false}) => {
     return (<div className="lista-suspensa">

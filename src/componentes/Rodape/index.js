@@ -1,5 +1,5 @@
 
-import './rodape.css'
+import './styles.css'
 
 const Rodape = () => {
     return (<footer className="footer">
@@ -27,7 +27,7 @@ const Rodape = () => {
        </section>
        <section>
         <p>
-            Desenvolvido por Alura.
+            Desenvolvido por Matheus Grenat.
         </p>
        </section>
     </footer>)
