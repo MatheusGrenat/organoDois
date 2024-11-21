@@ -11,5 +11,9 @@
 }
 
 .botao:hover {
-    color: #95FFD4;
+    background: #fff;
+    border: 3px solid #6278F7;
+    padding: 29px;
+    color: #6278F7;
+    border-color: #6278F7;
 }
